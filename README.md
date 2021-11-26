@@ -1,5 +1,7 @@
 ### Dagurs law - Open Source Dev
 
+Thinks I have learned from Dagur.
+
 _Theorems for polite open source development_ 
 
 #### Theorem 1
