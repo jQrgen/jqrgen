@@ -1,5 +1,3 @@
-_// TODO: Convert Norwegian handwriting to English markdown:_
-
 ### Dagurs law - Open Source Dev
 
 _Theorems for polite open source development_ 
