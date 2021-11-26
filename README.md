@@ -10,31 +10,31 @@ Use feature branch and pull request/merge request
 
 Have as granular pull/merge requests as possible with as few commits as possible
 
-#### Theorem 4
+#### Theorem 3
 
 Never break things that works.
 
-#### Theorem 5
+#### Theorem 4
 
 If you break something on master: Fix asap and write tests for the fix.
 
-#### Theorem 6 
+#### Theorem 5 
 
 Commit messages should consist of a consise description of the changes are.
 
-#### Theorem 7
+#### Theorem 6
 
 Use merge commits
 
-#### Theorem 8
+#### Theorem 7
 
 When merging a feature branch into master, use merge commits with a link to the pull/merge request
 
-#### Theorem 9
+#### Theorem 8
 
 Pull/merge requests titles should be unique and konsise.
 
-#### Theorem 10
+#### Theorem 9
 
 A pull/merge requests should always describe:
 * Why its needed.
