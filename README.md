@@ -1,18 +1,43 @@
 _// TODO: Convert Norwegian handwriting to English markdown:_
 
-![BBB6397A-1BB0-4C4E-814E-F302128D8DC9](https://user-images.githubusercontent.com/3964957/143506538-4498a994-12c9-43a4-8532-e4da0b8a61a4.jpg)
+### Dagurs law - Open Source Dev
 
-<!--
-**jQrgen/jqrgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Theorems for polite open source development_ 
 
-Here are some ideas to get you started:
+#### Theorem 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use feature branch and pull request/merge request
+
+#### Theorem 2
+
+Have as granular pull/merge requests as possible with as few commits as possible
+
+#### Theorem 4
+
+Never break things that works.
+
+#### Theorem 5
+
+If you break something on master: Fix asap and write tests for the fix.
+
+#### Theorem 6 
+
+Commit messages should consist of a consise description of the changes are.
+
+#### Theorem 7
+
+Use merge commits
+
+#### Theorem 8
+
+When merging a feature branch into master, use merge commits with a link to the pull/merge request
+
+#### Theorem 9
+
+Pull/merge requests titles should be unique and konsise.
+
+#### Theorem 10
+
+A pull/merge requests should always describe:
+* Why its needed.
+* What it changes.
