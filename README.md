@@ -1,3 +1,8 @@
+
+<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqrgen&layout=compact&theme=calm">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jqrgen&count_private=true&show_icons=true&theme=calm">
+
 ### Dagurs law - Open Source Dev
 
 _Theorems for polite open source development_ 
