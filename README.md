@@ -3,6 +3,10 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jqrgen&count_private=true&show_icons=true&theme=calm">
 
+<a href="https://stackexchange.com">
+<img src="https://stackexchange.com/users/flair/2703711.png" width="208" height="58" alt="combined Stack Exchange profile for Jørgen Svennevik Notland" title="combined Stack Exchange profiles for Jørgen Svennevik Notland">
+</a>
+
 ### Dagurs law - Open Source Dev
 
 _Theorems for polite open source development_ 
