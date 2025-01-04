@@ -7,7 +7,7 @@
 <img src="https://stackexchange.com/users/flair/2703711.png" width="208" height="58" alt="combined Stack Exchange profile for Jørgen Svennevik Notland" title="combined Stack Exchange profiles for Jørgen Svennevik Notland">
 </a>
 
-### Dagurs law - Open Source Dev
+### Open Source Dev theorems
 
 _Theorems for polite open source development_ 
 
